@@ -1,0 +1,18 @@
+{
+  "name": "financial-api",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "repository": "https://github.com/silvio-sbj/financial-api.git",
+  "author": "Silvio Junior <silvio_sbj@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
